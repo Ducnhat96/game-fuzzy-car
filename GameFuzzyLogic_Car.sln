@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFuzzyLogic_Car", "Assembly-CSharp-firstpass.csproj", "{351398B4-CC7B-1B3B-CDFC-CD82F23D301A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFuzzyLogic_Car", "Assembly-CSharp.csproj", "{C3A1F952-581C-E683-1DA0-AB61E0B9D141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFuzzyLogic_Car", "Assembly-CSharp-Editor-firstpass.csproj", "{2477063C-8CA4-065A-823C-45B956334339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351398B4-CC7B-1B3B-CDFC-CD82F23D301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351398B4-CC7B-1B3B-CDFC-CD82F23D301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351398B4-CC7B-1B3B-CDFC-CD82F23D301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351398B4-CC7B-1B3B-CDFC-CD82F23D301A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A1F952-581C-E683-1DA0-AB61E0B9D141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A1F952-581C-E683-1DA0-AB61E0B9D141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A1F952-581C-E683-1DA0-AB61E0B9D141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A1F952-581C-E683-1DA0-AB61E0B9D141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2477063C-8CA4-065A-823C-45B956334339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2477063C-8CA4-065A-823C-45B956334339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2477063C-8CA4-065A-823C-45B956334339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2477063C-8CA4-065A-823C-45B956334339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
